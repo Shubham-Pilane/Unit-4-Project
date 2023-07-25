@@ -27,4 +27,4 @@ Deployment:
 
 The website is deployed using a cloud hosting platform, making it 
 
-Deployed Link:https://fluffy-fudge-70688b.netlify.app/
+Deployed Link: https://fluffy-fudge-70688b.netlify.app/
