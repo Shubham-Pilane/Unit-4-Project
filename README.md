@@ -10,6 +10,8 @@ Sustainable Product Listings: Ecooerce offers a diverse range of products that a
 
 User Accounts: Users can create accounts and log in to the platform. This feature enables a personalized shopping experience with the ability to save favorite products, view order history, and track shipments.
 
+Deployed Link: https://fluffy-fudge-70688b.netlify.app/
+
 Shopping Cart and Checkout: Customers can add products to their cart while browsing and make secure payments during the checkout process. The cart allows users to manage their selected items, including the option to remove products if needed.
 
 Search and Filtering: A powerful search functionality allows users to find specific products quickly. Additionally, advanced filtering options enable shoppers to refine their search based on various attributes, such as product type, price range, and sustainability tags.
